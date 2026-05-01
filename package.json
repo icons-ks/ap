@@ -1,0 +1,29 @@
+{
+  "name": "app",
+  "version": "1.0.1",
+  "description": "application",
+  "author": {
+    "name": "Name"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icons-ks/ap.git"
+  },
+  "license": "GPL-3.0",
+
+  "config": {
+    "type": "app",
+    "category": "apps",
+    "name": "App",
+    "backgroundColor": "#2D2D2D",
+    "legacy": true,
+    "description": "My application description",
+
+    "icons": {
+      "states": {
+        "normal": "icons/icon.png",
+        "active": "icons/icon.focus.png"
+      }
+    }
+  }
+}
