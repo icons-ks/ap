@@ -1,5 +1,5 @@
 {
-  "name": "ap1",
+  "name": "ap",
   "version": "1.0.1",
   "description": "application",
   "author": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/icons-ks/ap1.git"
+    "url": "https://github.com/icons-ks/ap.git"
   },
   "license": "GPL-3.0",
 
